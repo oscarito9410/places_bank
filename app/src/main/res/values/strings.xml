@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="error_lista_vacia">La búsqueda no pudo ser realizada con éxito.</string>
+    <string name="error_conexion">Ocurrió un error al intentar hacer la conexión con los servicios.</string>
+    <string name="ocurrio_error">Ha ocurrido algo inesperado</string>
+    <string name="compartir">Compartir</string>
+    <string name="busqueda">Búsqueda</string>
+</resources>
